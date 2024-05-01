@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1+GuHY2CICcgXfvhVjF+Vk6fCDHSo1dis3Ii8K5WzByWt/PrIaeT9BHEK5kJypjL6AJQsAX4P4NDC0HtCHBTtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TRON PCH\\source\\repos\\YMYP2\\14.Projeler\\LiveChat\\CanliSohbetServer\\CanliSohbetServer.WebAPI\\CanliSohbetServer.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TRON PCH\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\TRON PCH\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\TRON PCH\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\TRON PCH\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\TRON PCH\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\TRON PCH\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

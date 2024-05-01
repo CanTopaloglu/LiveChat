@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanliSohbetServer.WebAPI", "CanliSohbetServer.WebAPI\CanliSohbetServer.WebAPI.csproj", "{22BE4121-9594-4D4B-8591-C6CFDC0750CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22BE4121-9594-4D4B-8591-C6CFDC0750CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BE4121-9594-4D4B-8591-C6CFDC0750CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BE4121-9594-4D4B-8591-C6CFDC0750CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BE4121-9594-4D4B-8591-C6CFDC0750CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {149E3E52-7350-485A-A0F3-D688AB4DF9FC}
+	EndGlobalSection
+EndGlobal
