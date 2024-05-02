@@ -30,3 +30,4 @@ C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\LiveChat\CanliSohbetServer\Canl
 C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\LiveChat\CanliSohbetServer\CanliSohbetServer.WebAPI\obj\Debug\net8.0\CanliSohbetServer.WebAPI.pdb
 C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\LiveChat\CanliSohbetServer\CanliSohbetServer.WebAPI\obj\Debug\net8.0\CanliSohbetServer.WebAPI.genruntimeconfig.cache
 C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\LiveChat\CanliSohbetServer\CanliSohbetServer.WebAPI\obj\Debug\net8.0\ref\CanliSohbetServer.WebAPI.dll
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\LiveChat\CanliSohbetServer\CanliSohbetServer.WebAPI\obj\Debug\net8.0\CanliSohbetServer.WebAPI.sourcelink.json

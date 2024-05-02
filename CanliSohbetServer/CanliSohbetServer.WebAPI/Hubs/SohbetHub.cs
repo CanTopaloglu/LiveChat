@@ -24,8 +24,8 @@ public sealed class SohbetHub : Hub
 
     public async Task Send(string who,string avatar, string connectionId, string message)
     {
-        object value = Users.FirstOrDefault(p => p.Value == who).Value;
+        object value = Users.FirstOrDefault(p=> p.Value == who).Value;
 
-        await Clients.Client(connectionId).SendAsync("Chat", new { userName = who, avatar = avatar, message = message });
+        await Clients.Client(connectionId).SendAsync("Chat", new { userName = who, avatar = avatar, message = message});
     }
 }

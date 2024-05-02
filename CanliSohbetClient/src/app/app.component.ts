@@ -11,7 +11,7 @@ import * as signalR from '@microsoft/signalr';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  isLogin: boolean = true;
+  isLogin: boolean = false;
   userName: string = "Taner Saydam";
   users: {key: string, value: {avatar:string, userName: string}}[] = [];
   avatar: string = "avatar1";
@@ -64,6 +64,6 @@ export class AppComponent {
 
   send(){
     this.chats.push({userName: this.userName, avatar: this.avatar, message: this.message});
-    this.hub?.invoke("Send", this.selectedUser, this.message);
+    this.hub?.invoke("Send", this.userName, this.avatar, this.selectedUserConnectionId, this.message);
   }
 }
